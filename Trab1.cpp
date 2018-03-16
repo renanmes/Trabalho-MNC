@@ -1,4 +1,4 @@
-//  Trabalho 1 - Métodos Numéricos Computacionais
+//  Trabalho 1 - MÃ©todos NumÃ©ricos Computacionais
 //  Grupo: 
 //		Gabriel Vieira
 //		Leonardo Silva de Oliveira
@@ -10,13 +10,8 @@
 #include <stdlib.h>
 #include <locale.h>
 
-void teste(){
-	printf("Funçao teste");
-}
-
 int main(){
-
+	printf("Teste");
 	setlocale(LC_ALL,"Portuguese");
-
 }
 
