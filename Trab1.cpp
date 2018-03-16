@@ -10,6 +10,10 @@
 #include <stdlib.h>
 #include <locale.h>
 
+void teste(){
+	printf("Funçao teste");
+}
+
 int main(){
 
 	setlocale(LC_ALL,"Portuguese");
